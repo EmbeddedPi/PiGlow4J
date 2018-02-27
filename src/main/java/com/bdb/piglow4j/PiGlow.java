@@ -15,6 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 package com.bdb.piglow4j;
+// package PiGlow4j;
 
 import java.io.IOException;
 import java.util.logging.Level;
