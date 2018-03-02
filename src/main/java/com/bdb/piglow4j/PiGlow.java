@@ -84,6 +84,7 @@ public final class PiGlow {
      * 
      * @return The board type
      */
+    
     private SystemInfo.BoardType getBoardType() {
         try {
             String revision = SystemInfo.getRevision();
